@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>LEARN MCP</div>;
+  return <h1>LEARN MCP</h1>;
 }
